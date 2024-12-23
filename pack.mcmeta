@@ -1,0 +1,25 @@
+{
+    "pack": { 
+        "pack_format": 61,
+        "supported_formats":{"min_inclusive": 41, "max_inclusive": 61},
+        "description": "§eInvisibility Item Frame 隱形物品展示框§6v1.6"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "1.21-1.21.1",
+                "formats": {
+                    "min_inclusive": 48,
+                    "max_inclusive": 48
+                }
+            },
+            {
+                "directory": "1.20.5-1.20.6",
+                "formats": {
+                    "min_inclusive": 41,
+                    "max_inclusive": 41
+                }
+            }
+        ]
+    }
+}
