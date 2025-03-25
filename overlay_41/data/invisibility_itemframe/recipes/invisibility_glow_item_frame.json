@@ -11,7 +11,7 @@
             "rarity":"rare",
             "enchantment_glint_override":true,
             "item_name": "[{\"translate\":\"item.invisibility_itemframe.invisibility_glow_item_frame\",\"fallback\":\"%1$s %2$s\",\"with\":[{\"translate\":\"effect.minecraft.invisibility\"},{\"translate\":\"item.minecraft.glow_item_frame\"}]}]",
-            "lore":["[{\"translate\":\"effect.minecraft.invisibility\",\"italic\": false,\"color\": \"gray\"},{\"text\": \" \"},{\"translate\":\"effect.duration.infinite\"}]"]
+            "lore": ["[{\"translate\":\"item.invisibility_itemframe.invisibility_glow_item_frame.lore\",\"color\":\"gray\",\"italic\": false,\"fallback\":\"%1$s %2$s\",\"with\":[{\"translate\":\"effect.minecraft.invisibility\"},{\"translate\":\"effect.duration.infinite\"}]}]"]
         }
     }
 }
